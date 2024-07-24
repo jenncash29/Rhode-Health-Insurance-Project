@@ -5,8 +5,8 @@ Row Health would like to build a deeper understanding of the effectiveness of th
 
 The following key metrics were used to the evaluate the performance of the campaigns.
 
-- **Click through Rate:** The percent of people who see a campaign and click on the associated link.
-- **Cost per Click:** The average dollars spent per click on people who see a campaign and click on the associated link.
+- **Click through Rate (CTR):** The percent of people who see a campaign and click on the associated link.
+- **Cost per Click (CPC):** The average dollars spent per click on people who see a campaign and click on the associated link.
 - **Signup Rate:** The percent of people who see a campaign and subsequently sign up for a Row Health plan.
 - **Cost per Signup:** The average dollars spent in order to acquire a signup from each campaign.
 
