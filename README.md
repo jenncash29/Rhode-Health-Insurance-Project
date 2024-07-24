@@ -21,7 +21,7 @@ The dataset consisted of three tables, including information about campaigns, si
 
 Rhode Health Insurance Entity Relationship Diagram (ERD)
 <p align ="center">
-  <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/ERD.png" alt="Rhode Health Insurance ERD">
+  <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/ERD.png" alt="Rhode Health Insurance ERD">
 </p>
 
 
