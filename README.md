@@ -6,7 +6,7 @@ Row Health would like to build a deeper understanding of the effectiveness of th
 # Executive Summary
 ### Overview of Findings
 
-From January 2019 to July 2023, Rhode Health successfully acquired 16,338 new sign-ups through 12 diverse campaign categories. These online campaigns, costing approximately $60,000, generated 9 million impressions and 850,000 clicks. This strategic marketing effort significantly boosted Rhode Health's brand awareness nationwide and drove an increase in sign-ups.
+From January 2019 to July 2023, Rhode Health successfully acquired 16,338 new sign-ups through 12 diverse campaign categories with 57 campaign types. These online campaigns, costing approximately $60,000, generated 9 million impressions and 850,000 clicks. This strategic marketing effort significantly boosted Rhode Health's brand awareness nationwide and drove an increase in sign-ups.
 
 ### About the Data
 The dataset consisted of three tables, including information about campaigns, signups and user demographics, as well as claims filed by customers and related claim information.
