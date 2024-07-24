@@ -44,6 +44,14 @@ Rhode Health Insurance Entity Relationship Diagram (ERD)
 - Within the two campaign categories with highest cost per signup, info-based campaign types (like offers and policy info) drove high costs per signup.
 - Some COVID-based campaigns also had abnormally high CACs at $1.2-$1.3K.
 
+# Tableau Dashboard
+Users can explore my interactive [Tableau dashboard](https://public.tableau.com/app/profile/jenncash29/viz/RhodeHealthCampaignCategoryDashboard/Dashboard1) and filter by plan, state, and campaign type. Highlights include tables and visualizations for KPI's, marketing, signup, and claim metrics. 
+<div align="center">
+  <a href="https://public.tableau.com/app/profile/jenncash29/viz/RhodeHealthCampaignCategoryDashboard/Dashboard1">
+    <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/Tableau%20Dashboard.png" alt="Tableau Dashboard">
+  </a>
+</div>
+
 # Recommendations
 - **Health for All:** Reallocate budget from Golden Years Security, which has high cost per acquisition, to Health for All campaigns. The second category outperforms across all key metrics, yet we have invested a relatively low amount ($20K) on them.
 - **Health Awareness:** Within Health for All campaigns, focus on health awareness-type marketing, and less on product promotion-type campaigns, which had low signup rate and CTR.
