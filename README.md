@@ -3,14 +3,6 @@ Founded in 2016, Row Health is a medical insurance company serving over thousand
 
 Row Health would like to build a deeper understanding of the effectiveness of these campaign categories and how they relate to signups and subsequent patient claims. These insights will guide their marketing budget strategy for the upcoming year. The budget is allocated to drive two primary objectives: 1) to increase the number of customer signups, and 2) to raise awareness of Row Health’s brand across the country.
 
-The following key metrics were used to the evaluate the performance of the campaigns.
-
-- **Click through Rate (CTR):** The percent of people who see a campaign and click on the associated link.
-- **Cost per Click (CPC):** The average dollars spent per click on people who see a campaign and click on the associated link.
-- **Signup Rate:** The percent of people who see a campaign and subsequently sign up for a Row Health plan.
-- **Cost per Signup:** The average dollars spent in order to acquire a signup from each campaign.
-
-
 # Executive Summary
 ### Overview of Findings
 
@@ -26,6 +18,13 @@ Rhode Health Insurance Entity Relationship Diagram (ERD)
 
 
 # Insights Deep-Dive
+**The following key metrics were used to the evaluate the performance of the campaigns.**
+
+1. **Click through Rate (CTR):** The percent of people who see a campaign and click on the associated link.
+2. **Cost per Click (CPC):** The average dollars spent per click on people who see a campaign and click on the associated link.
+3. **Signup Rate:** The percent of people who see a campaign and subsequently sign up for a Row Health plan.
+4. **Cost per Signup:** The average dollars spent in order to acquire a signup from each campaign.
+  
 ### Click through Rate (CTR)
 - Across categories, Health for All and Benefit Updates performed nearly 3-4x better than the average CTR at 36% and 22%, respectively.
 - Within the two categories with high CTR, product promotion-based campaigns had relatively low CTR (0% and 7%).
