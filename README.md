@@ -57,20 +57,23 @@ Users can explore my interactive [Tableau dashboard](https://public.tableau.com/
 # Presentation Sample
 A PowerPoint presentation was created for the marketing team to present insights and recommendations from the campaign analysis. An excerpt from the slides below highlights top-performing campaign figures, recommendations, caveats and next steps, and an appendix detailing the technical process.
 
-# Recommendations
-- **Health for All:** Reallocate budget from Golden Years Security, which has high cost per acquisition, to Health for All campaigns. The second category outperforms across all key metrics, yet we have invested a relatively low amount ($20K) on them.
-- **Health Awareness:** Within Health for All campaigns, focus on health awareness-type marketing, and less on product promotion-type campaigns, which had low signup rate and CTR.
-COVID Campaigns: Investigate the cause of abnormally high cost per signup for COVID-based campaigns, which had 2 signups that costed over $1K, compared to an average signup cost of $2.2. Consider removing these campaigns altogether.
-- **#HealthyLiving:** Decrease investment in this campaign category, which has the highest spend ($46K) but mediocre signup rates compared to Health for All campaigns.
-  
-# Caveats and Next Steps
-**Caveats:** Handling null or missing information.
-- Investigate missing clicks for Family Coverage Plan category
-- Explore reasons behind null values
-  
-**Next Steps:** To improve our data analysis and uncover deeper insights, we can integrate additional dimensions.
-- Include campaign start and end dates to understand campaign performance over time
-- Include customer-specific dimensions (plan, state) to further tailor campaign recommendations based on client demographics
-- Explore relationship between campaigns and customer claims to identify and target ideal patient types
+<p align ="center">
+  <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/Signup%20Rate%20PP.png" alt="Signup Rate">
+</p>
+______________________________________________________________________________________________________________________________________________________
+<p align ="center">
+  <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/Recommendation%20PP.png" alt="Recommendations">
+</p>
+______________________________________________________________________________________________________________________________________________________
+<p align ="center">
+  <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/Caveats%20and%20Next%20Steps%20PP.png" alt="Caveats and Next Steps">
+</p>
+______________________________________________________________________________________________________________________________________________________
+<p align ="center">
+  <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/Tech%20Process%20PP.png" alt="Technical Process">
+</p>
+______________________________________________________________________________________________________________________________________________________
+
+
 
 
