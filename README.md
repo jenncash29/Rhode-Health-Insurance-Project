@@ -59,7 +59,7 @@ A PowerPoint presentation was created for the marketing team to present insights
 <p align ="center">
   <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/Signup%20Rate%20PP.png" alt="Signup Rate">
 </p>
-___________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________
 <p align ="center">
   <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/Recommendation%20PP.png" alt="Recommendations">
 </p>
