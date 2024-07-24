@@ -32,7 +32,9 @@ Rhode Health Insurance Entity Relationship Diagram (ERD)
 - Family Coverage Plan had high impressions but no clicks - this needs to be investigated and could be due to missing data or issues with the campaign.
 
 ### Cost per Click
-- AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+- #CoverageMatters" had the lowest average CPC at approximately $0.03, indicating highly cost-effective engagement.
+- #HealthyLiving" and "Preventive Care News" had moderate CPC values of $0.17 and $0.13 respectively, balancing cost and engagement.
+- Campaigns under "#InsureYourHealth" and "Compare Health Coverage" showed higher CPCs of $0.34 and $0.33, suggesting these categories may require more investment per click.
   
 ### Signup Rate
 - Across campaign categories, Health for All campaigns had the best-performing signup rate (2.9%) and the second-highest number of signups (3.5K).
@@ -58,10 +60,14 @@ Users can explore my interactive [Tableau dashboard](https://public.tableau.com/
 COVID Campaigns: Investigate the cause of abnormally high cost per signup for COVID-based campaigns, which had 2 signups that costed over $1K, compared to an average signup cost of $2.2. Consider removing these campaigns altogether.
 - **#HealthyLiving:** Decrease investment in this campaign category, which has the highest spend ($46K) but mediocre signup rates compared to Health for All campaigns.
   
-# Assumptions and Caveats
-- Include campaign start and end dates to understand campaign performance over time
+# Caveats and Next Steps
+**Caveats:** Handling null or missing information.
 - Investigate missing clicks for Family Coverage Plan category
-
-# Next Steps
+- Explore reasons behind null values
+  
+**Next Steps:** To enhance our data analysis and gain deeper insights, we can incorporate additional dimensions.
+- Include campaign start and end dates to understand campaign performance over time
 - Include customer-specific dimensions (plan, state) to further tailor campaign recommendations based on client demographics
 - Explore relationship between campaigns and customer claims to identify and target ideal patient types
+
+
