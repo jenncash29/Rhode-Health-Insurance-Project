@@ -26,12 +26,12 @@ Rhode Health Insurance Entity Relationship Diagram (ERD)
 
 
 # Insights Deep-Dive
-### Click through Rate
+### Click through Rate (CTR)
 - Across categories, Health for All and Benefit Updates performed nearly 3-4x better than the average CTR at 36% and 22%, respectively.
 - Within the two categories with high CTR, product promotion-based campaigns had relatively low CTR (0% and 7%).
 - Family Coverage Plan had high impressions but no clicks - this needs to be investigated and could be due to missing data or issues with the campaign.
 
-### Cost per Click
+### Cost per Click (CPC)
 - #CoverageMatters" had the lowest average CPC at approximately $0.03, indicating highly cost-effective engagement.
 - #HealthyLiving" and "Preventive Care News" had moderate CPC values of $0.17 and $0.13 respectively, balancing cost and engagement.
 - Campaigns under "#InsureYourHealth" and "Compare Health Coverage" showed higher CPCs of $0.34 and $0.33, suggesting these categories may require more investment per click.
@@ -53,6 +53,9 @@ Users can explore my interactive [Tableau dashboard](https://public.tableau.com/
     <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/Tableau%20Dashboard.png" alt="Tableau Dashboard">
   </a>
 </div>
+
+# Presentation Sample
+A PowerPoint presentation was created for the marketing team to present insights and recommendations from the campaign analysis. An excerpt from the slides below highlights top-performing campaign figures, recommendations, caveats and next steps, and an appendix detailing the technical process.
 
 # Recommendations
 - **Health for All:** Reallocate budget from Golden Years Security, which has high cost per acquisition, to Health for All campaigns. The second category outperforms across all key metrics, yet we have invested a relatively low amount ($20K) on them.
