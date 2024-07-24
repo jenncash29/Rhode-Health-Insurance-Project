@@ -25,17 +25,19 @@ Rhode Health Insurance Entity Relationship Diagram (ERD)
 </p>
 
 
-
 # Insights Deep-Dive
-### Signup Rate
-- Across campaign categories, Health for All campaigns had the best-performing signup rate (2.9%) and the second-highest number of signups (3.5K).
-- This high signup rate is due to the Health Awareness campaign type, which had by far the highest signup rate across all campaign types (3.72%).
-- Interestingly, the category with the highest number of signups - #HealthyLiving - had a comparably low signup rate at 0.3%.
-
 ### Click through Rate
 - Across categories, Health for All and Benefit Updates performed nearly 3-4x better than the average CTR at 36% and 22%, respectively.
 - Within the two categories with high CTR, product promotion-based campaigns had relatively low CTR (0% and 7%).
 - Family Coverage Plan had high impressions but no clicks - this needs to be investigated and could be due to missing data or issues with the campaign.
+
+### Cost per Click
+- AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  
+### Signup Rate
+- Across campaign categories, Health for All campaigns had the best-performing signup rate (2.9%) and the second-highest number of signups (3.5K).
+- This high signup rate is due to the Health Awareness campaign type, which had by far the highest signup rate across all campaign types (3.72%).
+- Interestingly, the category with the highest number of signups - #HealthyLiving - had a comparably low signup rate at 0.3%.
 
 ### Cost per Signup
 - Across campaign categories, Golden Years Security had by far the highest cost per signup ($124), as well as the lowest number of signups (23), compared to an average of $2.2.
@@ -43,7 +45,15 @@ Rhode Health Insurance Entity Relationship Diagram (ERD)
 - Some COVID-based campaigns also had abnormally high CACs at $1.2-$1.3K.
 
 # Recommendations
-
+- **Health for All:** Reallocate budget from Golden Years Security, which has high cost per acquisition, to Health for All campaigns. The second category outperforms across all key metrics, yet we have invested a relatively low amount ($20K) on them.
+- **Health Awareness:** Within Health for All campaigns, focus on health awareness-type marketing, and less on product promotion-type campaigns, which had low signup rate and CTR.
+COVID Campaigns: Investigate the cause of abnormally high cost per signup for COVID-based campaigns, which had 2 signups that costed over $1K, compared to an average signup cost of $2.2. Consider removing these campaigns altogether.
+- **#HealthyLiving:** Decrease investment in this campaign category, which has the highest spend ($46K) but mediocre signup rates compared to Health for All campaigns.
+  
 # Assumptions and Caveats
+- Include campaign start and end dates to understand campaign performance over time
+- Investigate missing clicks for Family Coverage Plan category
 
 # Next Steps
+- Include customer-specific dimensions (plan, state) to further tailor campaign recommendations based on client demographics
+- Explore relationship between campaigns and customer claims to identify and target ideal patient types
