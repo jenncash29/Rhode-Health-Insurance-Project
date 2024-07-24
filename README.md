@@ -57,19 +57,19 @@ Users can explore my interactive [Tableau dashboard](https://public.tableau.com/
 A PowerPoint presentation was created for the marketing team to present insights and recommendations from the campaign analysis. An excerpt from the slides below highlights top-performing campaign figures, recommendations, caveats and next steps, and an appendix detailing the technical process.
 
 <p align ="center">
-  <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/Signup%20Rate%20PP.png" alt="Signup Rate">
+  <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/Signup%20Rates%20Slide.png" alt="Signup Rate">
 </p>
 __________________________________________________________________________________________________________________________
 <p align ="center">
-  <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/Recommendation%20PP.png" alt="Recommendations">
+  <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/Key%20Recommendations%20Slide.png" alt="Recommendations">
 </p>
 __________________________________________________________________________________________________________________________
 <p align ="center">
-  <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/Caveats%20and%20Next%20Steps%20PP.png" alt="Caveats and Next Steps">
+  <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/Caveats%20and%20Next%20Steps%20Slide.png" alt="Caveats and Next Steps">
 </p>
 __________________________________________________________________________________________________________________________
 <p align ="center">
-  <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/Tech%20Process%20PP.png" alt="Technical Process">
+  <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/Technical%20Process%20Slide.png" alt="Technical Process">
 </p>
 __________________________________________________________________________________________________________________________
 
