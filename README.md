@@ -65,7 +65,7 @@ COVID Campaigns: Investigate the cause of abnormally high cost per signup for CO
 - Investigate missing clicks for Family Coverage Plan category
 - Explore reasons behind null values
   
-**Next Steps:** To enhance our data analysis and gain deeper insights, we can incorporate additional dimensions.
+**Next Steps:** To improve our data analysis and uncover deeper insights, we can integrate additional dimensions.
 - Include campaign start and end dates to understand campaign performance over time
 - Include customer-specific dimensions (plan, state) to further tailor campaign recommendations based on client demographics
 - Explore relationship between campaigns and customer claims to identify and target ideal patient types
