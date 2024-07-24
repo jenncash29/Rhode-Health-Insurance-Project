@@ -26,24 +26,24 @@ Rhode Health Insurance Entity Relationship Diagram (ERD)
 4. **Cost per Signup:** The average dollars spent in order to acquire a signup from each campaign.
   
 ### Click through Rate (CTR)
-- Across categories, Health for All and Benefit Updates performed nearly 3-4x better than the average CTR at 36% and 22%, respectively.
+- Across categories, Health For All and Benefit Updates performed nearly 3x better than the average CTR at 25% and 22%, respectively.
 - Within the two categories with high CTR, product promotion-based campaigns had relatively low CTR (0% and 7%).
 - Family Coverage Plan had high impressions but no clicks - this needs to be investigated and could be due to missing data or issues with the campaign.
 
 ### Cost per Click (CPC)
-- #CoverageMatters" had the lowest average CPC at approximately $0.03, indicating highly cost-effective engagement.
-- #HealthyLiving" and "Preventive Care News" had moderate CPC values of $0.17 and $0.13 respectively, balancing cost and engagement.
-- Campaigns under "#InsureYourHealth" and "Compare Health Coverage" showed higher CPCs of $0.34 and $0.33, suggesting these categories may require more investment per click.
+- Golden Years Security had the highest CPC at $0.68 with the lowest CTR of 1.41%.
+- Health For All had the third highest CPC at $0.10 but achieved the highest CTR at 25%.
+- Benefit Updates had the third lowest CPC at $0.04 yet had the second highest CTR rate at 22%.
   
 ### Signup Rate
-- Across campaign categories, Health for All campaigns had the best-performing signup rate (2.9%) and the second-highest number of signups (3.5K).
-- This high signup rate is due to the Health Awareness campaign type, which had by far the highest signup rate across all campaign types (3.72%).
-- Interestingly, the category with the highest number of signups - #HealthyLiving - had a comparably low signup rate at 0.3%.
+- Across campaign categories, Health for All campaigns had the best-performing signup rate (2.08%) and the second-highest number of signups (3.5K).
+- This high signup rate is due to the Health Awareness campaign type, which had by far the highest signup rate across all campaign types (2.78%).
+- Interestingly, the category with the highest number of signups - #HealthyLiving - had a comparably low signup rate at 0.27%.
 
 ### Cost per Signup
-- Across campaign categories, Golden Years Security had by far the highest cost per signup ($124), as well as the lowest number of signups (23), compared to an average of $2.2.
+- Across campaign categories, Golden Years Security had by far the highest cost per signup ($176), as well as the lowest number of signups (23), compared to an average of $3.70.
 - Within the two campaign categories with highest cost per signup, info-based campaign types (like offers and policy info) drove high costs per signup.
-- Some COVID-based campaigns also had abnormally high CACs at $1.2-$1.3K.
+- Some COVID-based campaigns also had abnormally high CACs at $1.2-$2.2K.
 
 # Tableau Dashboard
 Users can explore my interactive [Tableau dashboard](https://public.tableau.com/app/profile/jenncash29/viz/RhodeHealthCampaignCategoryDashboard/Dashboard1) and filter by plan, state, and campaign type. Highlights include tables and visualizations for KPI's, marketing, signup, and claim metrics. 
