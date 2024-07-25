@@ -53,7 +53,7 @@ Users can explore my interactive [Tableau dashboard](https://public.tableau.com/
   </a>
 </div>
 
-# Presentation Sample
+# PowerPoint Presentation
 A PowerPoint presentation was created for the marketing team to present insights and recommendations from the campaign analysis. An excerpt from the slides below highlights top-performing campaign figures, recommendations, caveats and next steps, and an appendix detailing the technical process.
 
 <p align ="center">
