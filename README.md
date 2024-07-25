@@ -54,7 +54,7 @@ Users can explore my interactive [Tableau dashboard](https://public.tableau.com/
 </div>
 
 # PowerPoint Presentation
-A PowerPoint presentation was created for the marketing team to present insights and recommendations from the campaign analysis. An excerpt from the slides below highlights top-performing campaign figures, recommendations, caveats and next steps, and an appendix detailing the technical process.
+A PowerPoint presentation was created for the marketing team to present insights and recommendations from the campaign analysis. Below is an excerpt from the presentation, which highlights top-performing campaign figures, recommendations, caveats and next steps, and an appendix detailing the technical process.
 
 <p align ="center">
   <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/Signup%20Rates%20Slide.png" alt="Signup Rate">
