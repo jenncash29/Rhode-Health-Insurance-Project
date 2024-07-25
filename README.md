@@ -18,11 +18,11 @@ Rhode Health Insurance Entity Relationship Diagram (ERD)
 
 
 # Insights Deep-Dive
-**The following key metrics were used to the evaluate the performance of the campaigns.**
+**The following key metrics were used to evaluate the performance of the campaigns.**
 
-1. **Click through Rate (CTR):** The percent of people who see a campaign and click on the associated link.
+1. **Click through Rate (CTR):** The percentage of people who see a campaign and click on the associated link.
 2. **Cost per Click (CPC):** The average dollars spent per click on people who see a campaign and click on the associated link.
-3. **Signup Rate:** The percent of people who see a campaign and subsequently sign up for a Row Health plan.
+3. **Signup Rate:** The percentage of people who see a campaign and subsequently sign up for a Row Health plan.
 4. **Cost per Signup:** The average dollars spent in order to acquire a signup from each campaign.
   
 ### Click through Rate (CTR)
@@ -42,7 +42,7 @@ Rhode Health Insurance Entity Relationship Diagram (ERD)
 
 ### Cost per Signup
 - Across campaign categories, Golden Years Security had by far the highest cost per signup ($176), as well as the lowest number of signups (23), compared to an average of $3.70.
-- Within the two campaign categories with highest cost per signup, info-based campaign types (like offers and policy info) drove high costs per signup.
+- Within the two campaign categories with the highest cost per signup, info-based campaign types (like offers and policy info) drove high costs per signup.
 - Some COVID-based campaigns also had abnormally high CACs at $1.2-$2.2K.
 
 # Tableau Dashboard
