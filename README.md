@@ -20,10 +20,10 @@ Rhode Health Insurance Entity Relationship Diagram (ERD)
 # Insights Deep-Dive
 **The following key metrics were used to evaluate the performance of the campaigns.**
 
-1. **Click through Rate (CTR):** The percentage of people who see a campaign and click on the associated link.
-2. **Cost per Click (CPC):** The average dollars spent per click on people who see a campaign and click on the associated link.
-3. **Signup Rate:** The percentage of people who see a campaign and subsequently sign up for a Row Health plan.
-4. **Cost per Signup:** The average dollars spent in order to acquire a signup from each campaign.
+<p align ="center">
+  <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/Key%20Metrics.png" alt="Key Metrics">
+</p>
+
   
 ### Click through Rate (CTR)
 - Across categories, Health For All and Benefit Updates performed nearly 3x better than the average CTR at 25% and 22%, respectively.
