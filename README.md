@@ -25,7 +25,7 @@ Rhode Health Insurance Entity Relationship Diagram (ERD)
 </p>
 
   
-### Click through Rate (CTR)
+### Click Through Rate (CTR)
 - Across categories, Health For All and Benefit Updates performed nearly 3x better than the average CTR at 25% and 22%, respectively.
 - Within the two categories with high CTR, product promotion-based campaigns had relatively low CTR (0% and 7%).
 - Family Coverage Plan had high impressions but no clicks - this needs to be investigated and could be due to missing data or issues with the campaign.
