@@ -59,15 +59,15 @@ A PowerPoint presentation was created for the marketing team to present insights
 <p align ="center">
   <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/Signup%20Rates%20Slide.png" alt="Signup Rate">
 </p>
-__________________________________________________________________________________________________________________________
+
 <p align ="center">
   <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/Key%20Recommendations%20Slide.png" alt="Recommendations">
 </p>
-__________________________________________________________________________________________________________________________
+
 <p align ="center">
   <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/Caveats%20and%20Next%20Steps%20Slide.png" alt="Caveats and Next Steps">
 </p>
-__________________________________________________________________________________________________________________________
+
 <p align ="center">
   <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/Technical%20Process%20Slide.png" alt="Technical Process">
 </p>
