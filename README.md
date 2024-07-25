@@ -71,7 +71,7 @@ A PowerPoint presentation was created for the marketing team to present insights
 <p align ="center">
   <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/Technical%20Process%20Slide.png" alt="Technical Process">
 </p>
-__________________________________________________________________________________________________________________________
+
 
 
 
