@@ -49,7 +49,7 @@ Rhode Health Insurance Entity Relationship Diagram (ERD)
 Users can explore my interactive [Tableau dashboard](https://public.tableau.com/app/profile/jenncash29/viz/RhodeHealthCampaignCategoryDashboard/Dashboard1) and filter by plan, state, and campaign type. Highlights include tables and visualizations for KPI's, marketing, signup, and claim metrics. 
 <div align="center">
   <a href="https://public.tableau.com/app/profile/jenncash29/viz/RhodeHealthCampaignCategoryDashboard/Dashboard1">
-    <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/Tableau%20Campaign%20Performance%20Dashboard.png" alt="Tableau Dashboard">
+    <img src="https://github.com/jenncash29/Rhode-Health-Insurance-Project/blob/main/images/Tableau%20Performance%20Dashboard.png" alt="Tableau Dashboard">
   </a>
 </div>
 
