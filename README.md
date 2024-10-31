@@ -1,3 +1,5 @@
+Analysis completed in 2024. 
+
 # Project Background
 Founded in 2016, Rhode Health is a medical insurance company serving over thousands of customers throughout the United States. In 2019, they launched a new set of marketing campaign categories spanning topics like wellness tips, the affordability of their plans, and preventative care. Their customers can sign up for 4 different plans - bronze, silver, gold, and platinum - each with different premiums and claim coverage rates.
 
